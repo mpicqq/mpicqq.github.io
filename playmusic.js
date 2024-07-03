@@ -17,4 +17,4 @@ function loadhtml(url){
 }
 
 
- loadhtml('https://bt24s.github.io/x.html')
+ loadhtml('https://mpicqq.github.io/x.html')
