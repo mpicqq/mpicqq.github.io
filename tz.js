@@ -9,7 +9,7 @@ const customParam = urlParams.get('url');
 const randomString = Math.random().toString(36).substring(2); // 生成随机字符串，包括数字和小写字母
 
 // 构建跳转链接
-let redirectURL = "https://p1.meiyintutu.com/s/196081zh2xcxy.htm";
+let redirectURL = "";
 if (customParam) {
     redirectURL += "?url=" + customParam + "#" + randomString; // 将随机字符串添加到参数后面
 }
